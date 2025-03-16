@@ -1,1 +1,3 @@
-# probable-octo-goggles
+# 由python写的子网计算器
+采用python原生tk库
+本人代码水平较烂可能会出现各种奇怪的bug
